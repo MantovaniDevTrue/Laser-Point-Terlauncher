@@ -1,0 +1,18 @@
+{
+  "ModItem": [
+    "LaserPointer"
+  ],
+  "ModProjectile": [
+    "PointerBeam"
+  ],
+  "ModBuff": [
+    "Marked"
+  ],
+  "GlobalNPC": [
+    "PointerShop"
+  ],
+  "GlobalHooks": [
+    "PointerCombat",
+    "PointerMarks"
+  ]
+}
