@@ -17,6 +17,16 @@ Laser Pointer lets you mark an enemy for your summons. Marked targets receive **
 
 **[Download Laser Pointer.tl](./Laser%20Pointer.tl)**
 
+## Source code
+
+The mod-specific source code and assets are available in:
+
+**[source/](./source)**
+
+It includes the item, projectile, buff, targeting logic, immunity handling, visuals, localization, sprites and package metadata.
+
+The complete `Laser Pointer.tl` release also contains the ExMod/TLPro framework required by the package.
+
 ## Installation
 
 1. Download `Laser Pointer.tl`.
