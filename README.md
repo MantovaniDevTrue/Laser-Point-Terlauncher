@@ -9,7 +9,6 @@ Laser Pointer lets you mark an enemy for your summons. Marked targets receive **
 - Laser aiming and target marking
 - Minion focus on the marked enemy
 - +2 summon tag damage
-- Optimized NPC scanning for mobile performance
 - Lightweight standalone build
 - English and Portuguese localization
 
