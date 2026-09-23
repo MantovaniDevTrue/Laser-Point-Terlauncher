@@ -1,0 +1,15 @@
+{
+    "packStructureVersion": 35,
+    "title": "Laser Pointer",
+    "guid": "f904ff06-47fd-4ba8-bee1-d8b52a3fd26e",
+    "descriptionEnglish": "Aim with a laser to mark enemies for your summons. Marked targets take +2 summon tag damage and your minions focus them. ",
+    "authors": [
+        {
+            "file": "1.webp",
+            "name": "Mantovani",
+            "color": "#ffbd44f2",
+            "icon_height": 70
+        }
+    ],
+    "version": 1
+}
