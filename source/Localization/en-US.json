@@ -1,0 +1,24 @@
+{
+  "ItemName": {
+    "LaserPointer": "Laser Pointer"
+  },
+  "ItemTooltip": {
+    "LaserPointer": "No direct damage\n2 summon tag damage\nMarks the target for 4 seconds and directs your minions\nReduces supported summon immunity by 20%\n“Never saw it coming.”"
+  },
+  "BuffName": {
+    "Marked": "Marked"
+  },
+  "BuffDescription": {
+    "Marked": "+2 summon tag damage"
+  },
+  "AnglerQuest": {},
+  "ArmorSetBonus": {},
+  "ProjectileName": {
+    "PointerBeam": "Laser Pointer Beam"
+  },
+  "NPCName": {},
+  "NPCChat": {},
+  "Bestiary": {},
+  "TownNPCMood": {},
+  "Achievements": {}
+}
