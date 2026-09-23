@@ -1,36 +1,36 @@
 # Laser Pointer
 
-A lightweight **TerLauncher / TLPro** mod for Terraria Mobile.
+A lightweight standalone mod for **Terraria Mobile** on **TerLauncher / TLPro**.
 
-Use the Laser Pointer to mark enemies for your summons. Marked enemies receive **+2 summon tag damage** and your minions focus the marked target.
+Laser Pointer lets you mark an enemy for your summons. Marked targets receive **+2 summon tag damage**, and your minions prioritize the marked enemy.
 
 ## Features
 
-- Laser aiming with target marking
-- Minion focus on marked enemies
+- Laser aiming and target marking
+- Minion focus on the marked enemy
 - +2 summon tag damage
 - Optimized NPC scanning for mobile performance
-- Lightweight build
+- Lightweight standalone build
 - English and Portuguese localization
 
 ## Download
 
-Download the latest mod file:
-
-**[Laser Pointer.tl](./Laser%20Pointer.tl)**
+**[Download Laser Pointer.tl](./Laser%20Pointer.tl)**
 
 ## Installation
 
 1. Download `Laser Pointer.tl`.
-2. Import it into TerLauncher / TLPro.
-3. Enable the mod and start Terraria.
+2. Import the file into TerLauncher / TLPro.
+3. Enable the mod.
+4. Start Terraria.
 
-## Version
+## Information
 
-**1.0**
+| | |
+| --- | --- |
+| Version | 1.0 |
+| Platform | Terraria Mobile |
+| Environment | TerLauncher / TLPro |
+| Author | Mantovani |
 
-## Author
-
-**Mantovani**
-
-Built for Terraria Mobile with the ExMod/TLPro modding environment.
+Built with the ExMod/TLPro modding environment.
